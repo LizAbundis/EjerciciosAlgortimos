@@ -89,4 +89,16 @@ if(Liz % 2 == 0 ){
     alert(Liz + "es número impar");
 }  */
 
-//Cuidar en cual directorio se hizo el commit.
+//Cuidar en cual directorio se hizo el commit. 
+
+/*Let es para la asignación de variables
+var es para colocar variables pero ya es viejo, o sea ya no se utiliza.
+const = es una constante que se utiliza para asignar constantes |Ejemplo : un número que siempre va a ser el mismo PI
+
+
+Clase es la divisón y objeto es lo que se crea.
+elemento de una clase cuyo...
+la vida es bella porque el bootcamp es bello...
+
+*/
+
