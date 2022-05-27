@@ -1,4 +1,4 @@
-       //1. Solicitar 3 números (entre el 1 y el 100) y definir cuál es el menor de tres números
+ //1. Solicitar 3 números (entre el 1 y el 100) y definir cuál es el menor de tres números
 /*
 let a = prompt ("Ingresa el primer número del 1 al 100","");
 let b = prompt ("Ingresa el segundo número del 1 al 100","");
@@ -37,7 +37,7 @@ console.log(c);
             */
        
                
-    //4.Si es multiplo de 3
+//4.Si es multiplo de 3
     /*
     let Liz = prompt("Ingresa un número entero del 100 al 200", "");
     perseInt= (Liz); //perseInt es para que todo sea entero
@@ -53,7 +53,7 @@ console.log(Silvia);//Llamar variable, solo se pone una vez
             
 
     
-//Suma de los otros dos números
+//5.Suma de los otros dos números
    
             /*
     let x1 = prompt ("Ingresa el primer número", "");
@@ -88,3 +88,5 @@ if(Liz % 2 == 0 ){
 } else {
     alert(Liz + "es número impar");
 }  */
+
+//Cuidar en cual directorio se hizo el commit.
