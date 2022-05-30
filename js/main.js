@@ -34,7 +34,43 @@ if((a<b) && (a<c)){
 }else if ((c<b) && (c<a));{
 console.log(c);
 }
-            */
+           
+alert("Piensa en un numero del 1 al 100 ");
+prompt("A ese numero multipliquelo por 5");
+prompt("Despues sumale 12");
+prompt("Luego multipliquelo por 10");
+prompt("despues sumele 5");
+prompt("Multiplique por 2");
+    let num=parseFloat(prompt("¿Que numero te dio de resultado"));
+    let b= (num - 250);
+    let a= (b / 100);
+      alert("Tu numero es el :" + a);
+*/
+/*
+function Adivinar() {
+    let superior = 100;
+    let inferior = 0;
+    let noEncontrado = true;
+    while(noEncontrado);{
+        let mid = parseInt (inferior + ((superor-inferior)/2));
+        console.log(mid);
+        console.log(((superior-inferior)/2));
+        if(((superior-inferior)/2)<1){
+            noEncontrado=false;
+            alert("Tu número es el" + (parseInt(mid)+1));
+         
+        //if
+       let res = confirm ("Tu número es menor o igual o igual"+ mid);
+       if(res){
+           superior=mid;
+       }else{
+           inferior=mid;
+       }//if
+       console.log(inferior, superior);
+    }//while
+}//Adivinar
+Adivinar ();
+/*
        
                
 //4.Si es multiplo de 3
@@ -101,4 +137,3 @@ elemento de una clase cuyo...
 la vida es bella porque el bootcamp es bello...
 
 */
-
